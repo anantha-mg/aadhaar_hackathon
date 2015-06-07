@@ -15,21 +15,21 @@
 		<ol>
 			<li>
 				<h1>
-					<a href="/aadhaar-truescholar-backend/scholarship"> Pradhan Mantri 'BETI PADHAO' Scholarship online enrollment through Aadhaar KYC Auth</a>
+					<a href="/aadhaar-truescholar-backend/scholarship" target="_blank"> Pradhan Mantri 'BETI PADHAO' Scholarship online enrollment through Aadhaar KYC Auth</a>
 				</h1>
 			</li>
 
 
 		<li>
 			<h1>
-				<a href="/aadhaar-truescholar-backend/invigilator"> TrueScholar Exam Invigilator Android app - Biometric auth of students </a>
+				<a href="/aadhaar-truescholar-backend/invigilator" target="_blank"> TrueScholar Exam Invigilator Android app - Biometric auth of students </a>
 			</h1>
 		</li>
 
 
 		<li>
 			<h1>
-				<a href="/aadhaar-truescholar-backend/registration"> Online Exam registration using Aadhaar Demographic Auth</a>
+				<a href="/aadhaar-truescholar-backend/registration" target="_blank"> Online Exam registration using Aadhaar Demographic Auth</a>
 			</h1>
 		</li>
 
