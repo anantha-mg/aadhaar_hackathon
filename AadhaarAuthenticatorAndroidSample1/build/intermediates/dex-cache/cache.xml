@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/anantha/aadhaar-hack/AadhaarHackathonShare/Samples/AadhaarAuthenticatorAndroidSample1/app/libs/aadhaarbridge-aua-capture-wire-1.0(2).jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1125c60b029e04e74f40d4dc1bf0c7c20f18de9f">
+        <dex dex="/home/anantha/aadhaar-hack/AadhaarHackathonShare/Samples/AadhaarAuthenticatorAndroidSample1/app/build/intermediates/pre-dexed/debug/aadhaarbridge-aua-capture-wire-1.0(2)-81f0576b8757eb1256efed2ebc11381c09a726b9.jar" />
+    </item>
+    <item
+        jar="/home/anantha/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/anantha/aadhaar-hack/AadhaarHackathonShare/Samples/AadhaarAuthenticatorAndroidSample1/app/build/intermediates/pre-dexed/debug/gson-2.3.1-0b567ef67a33ef4362ca3c1fb75f5afc22052729.jar" />
+    </item>
+
+</items>

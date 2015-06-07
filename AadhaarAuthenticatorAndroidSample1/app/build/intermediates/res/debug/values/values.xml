@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/anantha/aadhaar-hack/AadhaarHackathonShare/Samples/AadhaarAuthenticatorAndroidSample1/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black_overlay">#66000000</color>
+    <!-- From: file:/home/anantha/aadhaar-hack/AadhaarHackathonShare/Samples/AadhaarAuthenticatorAndroidSample1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="aadhaar_number_hint">Insert Aadhaar Number</string>
+    <string name="aadhaar_number_label">Student Aadhaar Number</string>
+    <string name="app_name">TrueScholar Exam Invigilator</string>
+    <string name="authenticate">Do Biometric Auth</string>
+    <string name="barcode_image">Barcode Image</string>
+    <string name="enter_otp">enter otp</string>
+    <string name="instruction">Use Aadhaar number of student as written in answer sheet</string>
+    <string name="name_hint">enter name as per aadhaar</string>
+    <string name="name_label">Name</string>
+    <string name="otp">Otp</string>
+    <string name="request_for_otp">Request for Otp</string>
+    <string name="verify_button">Verify</string>
+    <!-- From: file:/home/anantha/aadhaar-hack/AadhaarHackathonShare/Samples/AadhaarAuthenticatorAndroidSample1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
