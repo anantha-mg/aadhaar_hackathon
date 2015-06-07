@@ -1,0 +1,26 @@
+<plugin name='jaxrs' version='0.11' grailsVersion='2.4 &gt; *'>
+  <author>Martin Krasser</author>
+  <authorEmail>krasserm@googlemail.com</authorEmail>
+  <title>JSR 311 plugin</title>
+  <description>
+A plugin that supports the development of RESTful web services based on the
+Java API for RESTful Web Services (JSR 311: JAX-RS). It is targeted at
+developers who want to structure the web service layer of an application in
+a JSR 311 compatible way but still want to continue to use Grails' powerful
+features such as GORM, automated XML and JSON marshalling, Grails services,
+Grails filters and so on. This plugin is an alternative to Grails' built-in
+mechanism for implementing  RESTful web services.
+
+At the moment, plugin users may choose between Jersey and Restlet as JAX-RS
+implementation. Both implementations are packaged with the plugin. Support for
+Restlet was added in version 0.2 of the plugin in order to support deployments
+on the Google App Engine. Other JAX-RS implementations such as RestEasy or
+Apache Wink are likely to be added in upcoming versions of the plugin.
+</description>
+  <documentation>https://github.com/krasserm/grails-jaxrs/wiki</documentation>
+  <type>JaxrsGrailsPlugin</type>
+  <resources>
+    <resource>JaxrsUrlMappings</resource>
+    <resource>org.grails.jaxrs.JaxrsController</resource>
+  </resources>
+</plugin>
